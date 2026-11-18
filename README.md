@@ -1,7 +1,5 @@
 # 🎬 CINEON+
 
-### Sua próxima experiência de entretenimento começa aqui!
-
 O **CINEON+** é um projeto de desenvolvimento front-end que apresenta uma proposta de plataforma de streaming moderna, intuitiva e visualmente atrativa. A plataforma reúne diferentes categorias de entretenimento em um só lugar, proporcionando uma experiência de navegação simples e agradável.
 
 ---
