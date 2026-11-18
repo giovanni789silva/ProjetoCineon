@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 CINEON+
 
 ### Sua próxima experiência de entretenimento começa aqui!
@@ -96,3 +97,6 @@ Projeto desenvolvido colaborativamente pela equipe **404-Front-End**, com foco n
 Aplicar conhecimentos de desenvolvimento front-end na construção de uma plataforma de streaming, explorando conceitos de usabilidade, design, organização e interatividade.
 
 --- -->
+=======
+# ProjetoCineon-
+>>>>>>> ff202779713a038109ac0d2159f6ae2f40150baf
